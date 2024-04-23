@@ -1,6 +1,6 @@
-import Box from '@mui/material/Box';
+import Box from "@mui/material/Box";
 
-import Demo from './Demo2';
+import Demo from "./DemoCheckbox";
 
 function App() {
   return (
